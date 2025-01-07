@@ -1,2 +1,2 @@
-# Tips_Python_Project
+# Tips_Project
 Data_Science
