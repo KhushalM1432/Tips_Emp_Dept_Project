@@ -11,4 +11,4 @@ This project analyzes a restaurant tipping dataset and an employee-department da
 - **Data Cleaning & Preprocessing**: Ensured data consistency, handled missing values, and optimized data for analysis.  
 - **Exploratory Data Analysis (EDA)**: Visualized trends, correlations, and business insights.  
 
-📊 **Technologies Used**: Python, Pandas, SQL, Matplotlib, Seaborn  
+📊 **Technologies Used**: Python, Pandas, SQL, Matplotlib, Seaborn.  
