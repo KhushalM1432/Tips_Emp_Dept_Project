@@ -6,4 +6,5 @@
 2) **Employee-Department Analysis**: Performed **inner joins** and **right joins** to analyze employee details, salaries, and departmental structures.  
 3) **Data Cleaning & Preprocessing**: Ensured data consistency, handled missing values, and optimized data for analysis.  
 4) **Exploratory Data Analysis (EDA)**: Visualized trends, correlations, and business insights.
+
 📊 **Technologies Used**: Python, Pandas, SQL, Matplotlib, Seaborn.  
