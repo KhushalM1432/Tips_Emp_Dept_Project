@@ -1,6 +1,6 @@
-## Tips & Employee-Department_Analysis | Data_Science & Business_Analytics_Project | Python
+## Tips & Employee-Department Analysis | Data Science & Business Analytics Project | Python
 
-## Data_Science
+## Data Science
 
 ### 📊 Project Overview
 
